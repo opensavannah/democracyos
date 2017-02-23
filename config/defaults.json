@@ -85,19 +85,19 @@
     "warnHTTP"
   ],
   "socialshare": {
-    "siteName": "DemocracyOS",
-    "siteDescription": "DemocracyOS voting system",
+    "siteName": "Open Savannah Ideation Hub",
+    "siteDescription": "Project idea voting system",
     "image": "https://2.gravatar.com/avatar/a8b9176bd0d042db078bf38500727671?d=https%3A%2F%2Fidenticons.github.com%2F14bae9f2564556f8eb23cc263a779f59.png&s=400",
-    "domain": "democracyos.org",
+    "domain": "opensavannah.org",
     "twitter": {
-      "username": "@democracyos"
+      "username": "@open_savannah"
     }
   },
   "logo": "/boot/logo.png",
   "logoMobile": "/boot/logo-mobile.png",
   "favicon": "/boot/favicon.ico",
-  "organizationName": "DemocracyOS on GitHub",
-  "organizationEmail": "no-reply@democracyos.org",
+  "organizationName": "Open Savannah on GitHub",
+  "organizationEmail": "yall@opensavannah.org",
   "organizationUrl": "https://github.com/DemocracyOS/app",
   "learnMoreUrl": "",
   "googleAnalyticsTrackingId": "",
@@ -109,7 +109,7 @@
   "privacyPolicy": false,
   "glossary": false,
   "homeLink": "/",
-  "headerBackgroundColor": "",
+  "headerBackgroundColor": "#B2031D",
   "headerFontColor": "",
   "headerContrast": false,
   "googleAPIKey": "",
