@@ -93,8 +93,8 @@
       "username": "@open_savannah"
     }
   },
-  "logo": "http://cvlassets.s3.amazonaws.com/logo-1.png",
-  "logoMobile": "http://cvlassets.s3.amazonaws.com/logo-1.png",
+  "logo": "http://cvlassets.s3.amazonaws.com/logo231.png",
+  "logoMobile": "http://cvlassets.s3.amazonaws.com/logo231.png",
   "favicon": "/boot/favicon.ico",
   "organizationName": "Open Savannah on GitHub",
   "organizationEmail": "yall@opensavannah.org",
