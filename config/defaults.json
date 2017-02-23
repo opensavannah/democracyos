@@ -93,13 +93,13 @@
       "username": "@open_savannah"
     }
   },
-  "logo": "http://cvlassets.s3.amazonaws.com/logo.png",
-  "logoMobile": "/boot/logo-mobile.png",
+  "logo": "http://cvlassets.s3.amazonaws.com/logo-1.png",
+  "logoMobile": "http://cvlassets.s3.amazonaws.com/logo-1.png",
   "favicon": "/boot/favicon.ico",
   "organizationName": "Open Savannah on GitHub",
   "organizationEmail": "yall@opensavannah.org",
   "organizationUrl": "http://opensavannah.org",
-  "learnMoreUrl": "",
+  "learnMoreUrl": "http://opensavannah.org",
   "googleAnalyticsTrackingId": "",
   "rssEnabled": true,
   "commentsPerPage": 100,
