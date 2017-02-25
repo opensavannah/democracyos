@@ -40,8 +40,8 @@
     "url": "",
     "token": "",
     "mailer": {
-      "name": "The DemocracyOS Team",
-      "email": "no-reply@democracyos.org",
+      "name": "The Open Savannah Team",
+      "email": "carl@opensavsannah.org",
       "service": "",
       "auth": {
         "user": "",
@@ -93,7 +93,7 @@
       "username": "@open_savannah"
     }
   },
-  "logo": "http://cvlassets.s3.amazonaws.com/logo231%20copy.png",
+  "logo": "http://cvlassets.s3.amazonaws.com/opensavideas.png",
   "logoMobile": "http://cvlassets.s3.amazonaws.com/logo231.png",
   "favicon": "/boot/favicon.ico",
   "organizationName": "Open Savannah on GitHub",
