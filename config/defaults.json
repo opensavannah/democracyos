@@ -13,7 +13,7 @@
   "settingsUrl": "",
   "staff": [],
   "allowEmailAliases": true,
-  "facebookSignin": false,
+  "facebookSignin": true,
   "publicEmails": false,
   "auth": {
     "basic": {
@@ -21,8 +21,8 @@
       "password": ""
     },
     "facebook": {
-      "clientID": "",
-      "clientSecret": "",
+      "clientID": "1645434662418315",
+      "clientSecret": "7fb50a00519c6c63fd9f6726a5af0831",
       "permissions": [ "email" ]
     }
   },
