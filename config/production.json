@@ -1,4 +1,3 @@
-
 {
   "locale": "en",
   "protocol": "http",
@@ -22,8 +21,8 @@
       "password": ""
     },
     "facebook": {
-      "clientID": "",
-      "clientSecret": "",
+      "clientID": "1645434662418315",
+      "clientSecret": "7fb50a00519c6c63fd9f6726a5af0831",
       "permissions": [ "email" ]
     }
   },
@@ -41,8 +40,8 @@
     "url": "",
     "token": "",
     "mailer": {
-      "name": "The DemocracyOS Team",
-      "email": "no-reply@democracyos.org",
+      "name": "The Open Savannah Team",
+      "email": "carl@opensavsannah.org",
       "service": "",
       "auth": {
         "user": "",
@@ -86,31 +85,31 @@
     "warnHTTP"
   ],
   "socialshare": {
-    "siteName": "DemocracyOS",
-    "siteDescription": "DemocracyOS voting system",
+    "siteName": "Open Savannah Ideation Hub",
+    "siteDescription": "Project idea voting system",
     "image": "https://2.gravatar.com/avatar/a8b9176bd0d042db078bf38500727671?d=https%3A%2F%2Fidenticons.github.com%2F14bae9f2564556f8eb23cc263a779f59.png&s=400",
-    "domain": "democracyos.org",
+    "domain": "opensavannah.org",
     "twitter": {
-      "username": "@democracyos"
+      "username": "@open_savannah"
     }
   },
-  "logo": "/boot/logo.png",
-  "logoMobile": "/boot/logo-mobile.png",
+  "logo": "http://cvlassets.s3.amazonaws.com/logo231%20copy-1.png",
+  "logoMobile": "http://cvlassets.s3.amazonaws.com/logo231.png",
   "favicon": "/boot/favicon.ico",
-  "organizationName": "DemocracyOS on GitHub",
-  "organizationEmail": "no-reply@democracyos.org",
-  "organizationUrl": "https://github.com/DemocracyOS/app",
+  "organizationName": "Open Savannah on GitHub",
+  "organizationEmail": "yall@opensavannah.org",
+  "organizationUrl": "http://opensavannah.org",
   "learnMoreUrl": "",
   "googleAnalyticsTrackingId": "",
   "rssEnabled": true,
   "commentsPerPage": 100,
   "spamLimit": 5,
-  "frequentlyAskedQuestions": false,
+  "frequentlyAskedQuestions": true,
   "termsOfService": false,
   "privacyPolicy": false,
   "glossary": false,
   "homeLink": "/",
-  "headerBackgroundColor": "",
+  "headerBackgroundColor": "#B2031D",
   "headerFontColor": "",
   "headerContrast": false,
   "googleAPIKey": "",
