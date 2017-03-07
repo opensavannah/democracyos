@@ -45,7 +45,7 @@
           input.form-control(type='url', name='source', tabindex=6, placeholder=t('admin-topics-form.placeholder.source'), value=topic.source, validate='url')
         .form-group
           label= t('admin-topics-form.label.summary')
-          textarea.form-control(name='body', tabindex=7)= topic.body
+          textarea.form-control(name='body', tabindex=7, placeholder='John Doe')= topic.body
         .form-group.closingAt
           label= t('admin-topics-form.label.closingAt')
           - var closingAt = ''
